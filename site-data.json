@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "D2Z Surface Care",
+    "shortName": "D2Z",
+    "tagline": "Dallas Pressure Washing & Soft Wash Experts",
+    "niche": "Pressure Washing",
+    "phone": "(214) 543-1474",
+    "address": "5526 Reiger Ave Apt 111, Dallas, TX 75214",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sat 7am-7pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Pressure Washing Dallas | D2Z Surface Care | 5-Star Soft Wash",
+    "description": "D2Z Surface Care offers premium pressure washing & soft wash in Dallas, TX. 5-star service for driveways, roofs, siding, and more. Call (214) 543-1474."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Pressure Washing Professionals",
+      "headline": "Restore Your Home's Curb Appeal with Expert Surface Care",
+      "subheadline": "We use soft wash and hot water pressure washing to safely remove dirt, mold, and stains from your home or business.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 543-1474"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100+",
+        "label": "Homes Cleaned"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Soft Wash Technology",
+        "title": "Gentle Yet Powerful Cleaning for Your Home",
+        "body": "Our low-pressure soft wash system uses biodegradable soaps and water to kill mold, mildew, and algae without damaging delicate surfaces like roof shingles, painted siding, or stucco. It's the safest way to make your home look new again.",
+        "bullets": [
+          "Eliminates organic growth without high pressure",
+          "Safe for roofs, siding, fences, and gutters",
+          "Leaves surfaces cleaner longer"
+        ],
+        "reverse": false,
+        "cardLabel": "Soft Wash",
+        "cardTitle": "Protects Your Investment",
+        "cardBody": "Unlike traditional pressure washing, soft wash penetrates deep to kill roots of mold and mildew, preventing regrowth for months."
+      },
+      {
+        "eyebrow": "Hot Water Pressure Washing",
+        "title": "Heavy-Duty Cleaning for Concrete & Driveways",
+        "body": "For tough stains like oil, grease, and tire marks, our hot water pressure washing system cuts through grime fast. Perfect for driveways, sidewalks, patios, and commercial lots.",
+        "bullets": [
+          "Hot water dissolves grease and oil instantly",
+          "No harsh chemicals needed",
+          "Leaves concrete bright and clean"
+        ],
+        "reverse": true,
+        "cardLabel": "Hot Water Wash",
+        "cardTitle": "Deep Clean Power",
+        "cardBody": "Our truck-mounted hot water unit reaches 200°F, ensuring even the toughest stains are removed in one pass."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Trust D2Z",
+    "whyChooseUs": [
+      {
+        "title": "5-Star Quality",
+        "description": "We maintain a perfect 5.0 rating by delivering consistent, high-quality work on every job."
+      },
+      {
+        "title": "Eco-Friendly Solutions",
+        "description": "All our cleaning agents are biodegradable and safe for pets, plants, and waterways."
+      },
+      {
+        "title": "Fully Insured & Bonded",
+        "description": "You're protected with our full liability insurance and bond."
+      },
+      {
+        "title": "Free Detailed Estimates",
+        "description": "We provide transparent pricing with no hidden fees. You'll know the cost upfront."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "D2Z power washed my entire driveway and patio. It looks like new! They were on time, professional, and the price was fair.",
+        "author": "Mike R.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "I was worried about my roof, but their soft wash was gentle and effective. No damage at all, and the mold is gone.",
+        "author": "Linda S.",
+        "role": "White Rock Resident"
+      },
+      {
+        "quote": "Great communication from start to finish. They even cleaned my gutters at no extra charge. Highly recommend!",
+        "author": "James K.",
+        "role": "M Streets Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Transform Your Property?",
+      "subheadline": "Get a free, no-obligation quote today.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 543-1474"
+    }
+  },
+  "servicesPage": {
+    "intro": "At D2Z Surface Care, we offer a full range of pressure washing and soft wash services for residential and commercial properties in Dallas. Our trained technicians use state-of-the-art equipment and eco-friendly solutions to deliver outstanding results."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Driveway & Concrete Cleaning",
+      "shortDescription": "Remove oil stains, tire marks, and dirt from driveways, sidewalks, and patios.",
+      "longDescription": "Our hot water pressure washing system blasts away years of grime from concrete surfaces. We treat stains with eco-friendly degreasers and rinse thoroughly, leaving your driveway looking like new. Suitable for asphalt, stamped concrete, and pavers.",
+      "benefits": [
+        "Eliminates oil, grease, and tire marks",
+        "Restores color to faded concrete",
+        "Prevents slip hazards from mold",
+        "Increases property value"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Pre-Treatment",
+          "description": "We assess the surface and apply a biodegradable degreaser to break down tough stains."
+        },
+        {
+          "title": "Hot Water Pressure Wash",
+          "description": "Using 200°F water at optimal pressure, we clean the surface without etching or damage."
+        },
+        {
+          "title": "Rinse & Final Walkthrough",
+          "description": "We rinse all residue and inspect the area to ensure complete satisfaction."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will pressure washing damage my driveway?",
+          "answer": "Not when done correctly. We adjust pressure based on surface type and use hot water to avoid etching."
+        },
+        {
+          "question": "How long does it take for concrete to dry?",
+          "answer": "Typically 2-4 hours depending on weather. You can walk on it immediately, but avoid parking for 24 hours."
+        }
+      ],
+      "slug": "driveway-concrete-cleaning"
+    },
+    {
+      "icon": "02",
+      "title": "House Siding & Soft Wash",
+      "shortDescription": "Gentle soft wash for vinyl, brick, stucco, and wood siding.",
+      "longDescription": "Our soft wash system uses low pressure and specialized cleaning solutions to safely remove mold, mildew, algae, and dirt from all types of siding. Perfect for homes with painted surfaces, stucco, or brick veneer. We protect your landscaping with tarps and rinse thoroughly.",
+      "benefits": [
+        "Safe for delicate surfaces",
+        "Kills mold and mildew at the root",
+        "No high-pressure damage",
+        "Lasts longer than traditional washing"
+      ],
+      "process": [
+        {
+          "title": "Surface Inspection",
+          "description": "We identify the siding material and any areas of concern like loose paint or cracks."
+        },
+        {
+          "title": "Soft Wash Application",
+          "description": "We apply a biodegradable soft wash solution from bottom to top, letting it dwell to kill organic growth."
+        },
+        {
+          "title": "Low-Pressure Rinse",
+          "description": "We rinse gently with low pressure, ensuring no water intrusion behind siding."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is soft wash safe for my plants?",
+          "answer": "Yes, our solutions are plant-friendly. We also wet down nearby foliage before and after for extra protection."
+        },
+        {
+          "question": "How often should I soft wash my house?",
+          "answer": "Every 1-2 years is recommended, depending on shade and humidity."
+        }
+      ],
+      "slug": "house-siding-soft-wash"
+    },
+    {
+      "icon": "03",
+      "title": "Roof Cleaning & Soft Wash",
+      "shortDescription": "Remove black streaks, moss, and algae from asphalt shingles safely.",
+      "longDescription": "Our roof soft wash service eliminates ugly black streaks caused by gloeocapsa magma algae. We use a non-abrasive, EPA-approved solution that kills algae without damaging shingles. Our team follows safety protocols and uses harnesses for steep roofs.",
+      "benefits": [
+        "Extends roof life",
+        "Improves energy efficiency",
+        "Enhances curb appeal",
+        "No shingle damage"
+      ],
+      "process": [
+        {
+          "title": "Roof Assessment",
+          "description": "We check for loose shingles, leaks, and determine the best approach."
+        },
+        {
+          "title": "Soft Wash Treatment",
+          "description": "We apply the cleaning solution with a low-pressure sprayer, allowing it to penetrate and kill algae."
+        },
+        {
+          "title": "Gentle Rinse",
+          "description": "We rinse with low pressure, leaving the roof clean and streak-free."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will roof cleaning void my warranty?",
+          "answer": "No, our soft wash method is manufacturer-approved for most asphalt shingles. We follow all guidelines."
+        },
+        {
+          "question": "How long until the streaks are gone?",
+          "answer": "Most algae die within 24 hours and wash away with rain. You'll see immediate improvement."
+        }
+      ],
+      "slug": "roof-cleaning-soft-wash"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Pressure Washing",
+      "shortDescription": "Keep your business looking its best with our commercial services.",
+      "longDescription": "From storefronts and parking lots to dumpster pads and warehouses, we provide tailored pressure washing for commercial properties. We work around your schedule, offer recurring maintenance plans, and use industrial-grade equipment for fast, thorough results.",
+      "benefits": [
+        "Enhances professional image",
+        "Meets health and safety standards",
+        "Extends lifespan of surfaces",
+        "Flexible scheduling"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation",
+          "description": "We walk the property to identify high-traffic areas and specific needs."
+        },
+        {
+          "title": "Custom Cleaning Plan",
+          "description": "We propose a cleaning schedule and method that fits your budget and timeline."
+        },
+        {
+          "title": "Execution & Cleanup",
+          "description": "Our crew performs the work efficiently and leaves the site spotless."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer recurring contracts?",
+          "answer": "Yes, we offer monthly, quarterly, and annual plans with discounted rates."
+        },
+        {
+          "question": "What areas do you serve for commercial?",
+          "answer": "We serve all of Dallas and surrounding suburbs including Highland Park, University Park, and Oak Lawn."
+        }
+      ],
+      "slug": "commercial-pressure-washing"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Surface Care Experts",
+    "mission": "Our mission is to restore and protect the beauty of Dallas properties with eco-friendly, professional pressure washing services that exceed expectations.",
+    "story": [
+      "D2Z Surface Care was founded by a team of Dallas locals who saw a need for reliable, high-quality pressure washing in the area. We started with a single truck and a commitment to doing the job right every time. Through word-of-mouth and a dedication to customer satisfaction, we've grown into one of the most trusted names in Dallas exterior cleaning.",
+      "We believe in using the right tool for every job. That's why we invest in both hot water pressure washers and soft wash systems — so we can safely clean any surface without compromise. Every technician is trained, insured, and passionate about delivering results that make our customers proud."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We give honest assessments, transparent pricing, and stand behind our work."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium equipment and eco-friendly solutions to achieve superior results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your property like our own, with careful attention to landscaping and surfaces."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up on time, communicate clearly, and complete jobs as promised."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Quote Today",
+    "subheadline": "Ready to refresh your property? Fill out the form or call us. We'll respond within 24 hours.",
+    "primaryCta": "Call (214) 543-1474",
+    "formCta": "Request a Quote",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "White Rock",
+      "M Streets",
+      "Oak Lawn",
+      "Uptown"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pressure Washing",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2145431474",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
